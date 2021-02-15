@@ -241,7 +241,6 @@
 				3CE965B625D6E929004B3910 /* XCRemoteSwiftPackageReference "Alamofire" */,
 				3CE965BA25D6E94A004B3910 /* XCRemoteSwiftPackageReference "AlamofireImage" */,
 				3CE965BE25D6E965004B3910 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
-				3CF36C2A25DABD6400B5EC34 /* XCRemoteSwiftPackageReference "SkeletonView" */,
 			);
 			productRefGroup = 3CE9658F25D6DD6C004B3910 /* Products */;
 			projectDirPath = "";
@@ -510,14 +509,6 @@
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 5.0.0;
-			};
-		};
-		3CF36C2A25DABD6400B5EC34 /* XCRemoteSwiftPackageReference "SkeletonView" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/Juanpe/SkeletonView";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.13.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
